@@ -250,7 +250,7 @@ def delete_expense():
 def main():
     initialize_file()
     while True:
-        print("\nExpense Tracker Menu:")
+        print("\n__Expense Tracker Menu__")
         print("1.Add Today's Expense")
         print("2.Add Expense for a specific date")
         print("3.View Expenses")
